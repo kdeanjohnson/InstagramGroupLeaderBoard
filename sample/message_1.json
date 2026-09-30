@@ -1,0 +1,369 @@
+{
+  "participants": [
+    { "name": "Maya Chen" },
+    { "name": "Jordan Hale" },
+    { "name": "Sam Okonkwo" },
+    { "name": "Priya Nair" },
+    { "name": "Chris Adler" }
+  ],
+  "title": "tuesday night film club",
+  "is_still_participant": true,
+  "thread_path": "inbox/tuesdaynightfilmclub_482910337",
+  "magic_words": [],
+  "messages": [
+    {
+      "sender_name": "Chris Adler",
+      "timestamp_ms": 1759010400000,
+      "content": "ok exporting the chat so we can settle this",
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Priya Nair",
+      "timestamp_ms": 1758924000000,
+      "content": "if this isn't number one i'm leaving the group",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cquietkitchen01/",
+        "share_text": "The knife skills are unholy. Watch until the lemon.",
+        "original_content_owner": "quietkitchen"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\ud83d\ude02", "actor": "Jordan Hale" }
+      ]
+    },
+    {
+      "sender_name": "Sam Okonkwo",
+      "timestamp_ms": 1758837600000,
+      "content": "third time this week. i'm not sorry",
+      "share": {
+        "link": "https://www.instagram.com/reel/Dpoolleap88/",
+        "share_text": "He really thought the pool was closer.",
+        "original_content_owner": "hometownfails"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\ud83d\udd25", "actor": "Maya Chen" }
+      ]
+    },
+    {
+      "sender_name": "Jordan Hale",
+      "timestamp_ms": 1758751200000,
+      "content": "this song has been in my head since tuesday",
+      "share": {
+        "link": "https://www.instagram.com/reel/Bnightbus44/",
+        "share_text": "Shot on a night bus in Lisbon. No caption needed.",
+        "original_content_owner": "afterhoursfilm"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Maya Chen",
+      "timestamp_ms": 1758664800000,
+      "content": "sending again because jordan muted the chat",
+      "share": {
+        "link": "https://www.instagram.com/reel/Dpoolleap88/",
+        "share_text": "He really thought the pool was closer.",
+        "original_content_owner": "hometownfails"
+      },
+      "reactions": [
+        { "reaction": "\ud83d\ude02", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Chris Adler",
+      "timestamp_ms": 1758578400000,
+      "content": "do not open this in a meeting",
+      "share": {
+        "link": "https://www.instagram.com/reel/Eofficeparrot2/",
+        "share_text": "The parrot has learned the fire alarm.",
+        "original_content_owner": "birdunion"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" },
+        { "reaction": "\ud83d\ude02", "actor": "Jordan Hale" },
+        { "reaction": "\ud83d\ude02", "actor": "Priya Nair" }
+      ]
+    },
+    {
+      "sender_name": "Priya Nair",
+      "timestamp_ms": 1758492000000,
+      "content": "this is the one. i'm calling it",
+      "share": {
+        "link": "https://www.instagram.com/reel/Aferrisnight7/",
+        "share_text": "Empty ferris wheel, one song, golden hour.",
+        "original_content_owner": "cityafterdark"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" },
+        { "reaction": "\u2764", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Jordan Hale",
+      "timestamp_ms": 1758405600000,
+      "share": {
+        "link": "https://www.instagram.com/reel/Fskatefail90/",
+        "share_text": "Landed it. Emotionally.",
+        "original_content_owner": "curbcollege"
+      },
+      "reactions": [
+        { "reaction": "\ud83d\ude02", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Sam Okonkwo",
+      "timestamp_ms": 1758319200000,
+      "content": "cooking stream went off the rails",
+      "share": {
+        "link": "https://www.instagram.com/reel/Gpastafail3/",
+        "share_text": "The sauce hit the ceiling. She kept talking.",
+        "original_content_owner": "weeknighteats"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\ud83d\ude02", "actor": "Jordan Hale" },
+        { "reaction": "\ud83d\ude02", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Maya Chen",
+      "timestamp_ms": 1758232800000,
+      "content": "for the group archive",
+      "share": {
+        "link": "https://www.instagram.com/reel/Hrainwindow1/",
+        "share_text": "Just a window and the rain. Somehow perfect.",
+        "original_content_owner": "softfocus"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Jordan Hale" }
+      ]
+    },
+    {
+      "sender_name": "Chris Adler",
+      "timestamp_ms": 1758146400000,
+      "content": "science",
+      "share": {
+        "link": "https://www.instagram.com/reel/Ivolcanoegg5/",
+        "share_text": "Do not try the baking soda thing.",
+        "original_content_owner": "kitchenlab"
+      },
+      "reactions": [
+        { "reaction": "\ud83d\ude02", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Priya Nair",
+      "timestamp_ms": 1758060000000,
+      "content": "found our song",
+      "share": {
+        "link": "https://www.instagram.com/reel/Jrooftopset/",
+        "share_text": "Three friends, one rooftop, terrible dancing.",
+        "original_content_owner": "sundaycrew"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\ud83d\udd25", "actor": "Jordan Hale" }
+      ]
+    },
+    {
+      "sender_name": "Jordan Hale",
+      "timestamp_ms": 1757973600000,
+      "content": "this edit is illegal",
+      "share": {
+        "link": "https://www.instagram.com/reel/Kmatchcut99/",
+        "share_text": "Match cut of the year and it's a sandwich.",
+        "original_content_owner": "editroom"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Sam Okonkwo",
+      "timestamp_ms": 1757887200000,
+      "content": "wait maya already sent this didn't she",
+      "share": {
+        "link": "https://www.instagram.com/reel/Aferrisnight7/",
+        "share_text": "Empty ferris wheel, one song, golden hour.",
+        "original_content_owner": "cityafterdark"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" }
+      ]
+    },
+    {
+      "sender_name": "Maya Chen",
+      "timestamp_ms": 1757800800000,
+      "content": "nobody talk to me until you watch this",
+      "share": {
+        "link": "https://www.instagram.com/reel/Ldogjudge12/",
+        "share_text": "The dog is judging the proposal.",
+        "original_content_owner": "animalcourt"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\ud83d\ude02", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Chris Adler",
+      "timestamp_ms": 1757714400000,
+      "content": "background noise for the group trip doc",
+      "share": {
+        "link": "https://www.instagram.com/reel/Mstationpiano/",
+        "share_text": "Piano in an empty station at 1am.",
+        "original_content_owner": "publicpianos"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Priya Nair" }
+      ]
+    },
+    {
+      "sender_name": "Jordan Hale",
+      "timestamp_ms": 1757628000000,
+      "content": "i fear this is my personality now",
+      "share": {
+        "link": "https://www.instagram.com/reel/Nconveyor44/",
+        "share_text": "Airport conveyor belt, cinematic for no reason.",
+        "original_content_owner": "gateb12"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\ud83d\ude02", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Priya Nair",
+      "timestamp_ms": 1757541600000,
+      "content": "sending this to the group and also my mom",
+      "share": {
+        "link": "https://www.instagram.com/reel/Ograndmakick/",
+        "share_text": "Grandma hits the high note and the kick drum.",
+        "original_content_owner": "familyband"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" },
+        { "reaction": "\u2764", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Sam Okonkwo",
+      "timestamp_ms": 1757455200000,
+      "share": {
+        "link": "https://www.instagram.com/reel/Pblurrymoon2/",
+        "share_text": "Phone photo of the moon. He was proud.",
+        "original_content_owner": "samokonkwo"
+      },
+      "reactions": [
+        { "reaction": "\ud83d\ude02", "actor": "Jordan Hale" }
+      ]
+    },
+    {
+      "sender_name": "Maya Chen",
+      "timestamp_ms": 1757368800000,
+      "content": "this is why we have the chat",
+      "share": {
+        "link": "https://www.instagram.com/reel/Qcatconductor/",
+        "share_text": "Cat conducting an orchestra of blenders.",
+        "original_content_owner": "kitchensymphony"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\ud83d\ude02", "actor": "Jordan Hale" },
+        { "reaction": "\ud83d\ude02", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Jordan Hale",
+      "timestamp_ms": 1757282400000,
+      "content": "study this",
+      "share": {
+        "link": "https://www.instagram.com/reel/Rwrongturn1/",
+        "share_text": "GPS said turn left into the lake.",
+        "original_content_owner": "roadstories"
+      },
+      "reactions": []
+    },
+    {
+      "sender_name": "Chris Adler",
+      "timestamp_ms": 1757196000000,
+      "content": "priya is going to win this and i accept it",
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Sam Okonkwo" }
+      ]
+    },
+    {
+      "sender_name": "Priya Nair",
+      "timestamp_ms": 1757110000000,
+      "content": "last one tonight i promise",
+      "share": {
+        "link": "https://www.instagram.com/reel/Ssunriseferry/",
+        "share_text": "Ferry at sunrise, nobody talking.",
+        "original_content_owner": "slowtravel"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\u2764", "actor": "Chris Adler" }
+      ]
+    },
+    {
+      "sender_name": "Maya Chen",
+      "timestamp_ms": 1757023600000,
+      "content": "jordan this is your brand",
+      "share": {
+        "link": "https://www.instagram.com/reel/Tescalatorcinema/",
+        "share_text": "Someone filmed the mall escalator like a thriller.",
+        "original_content_owner": "afterhoursfilm"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Jordan Hale" },
+        { "reaction": "\ud83d\ude02", "actor": "Sam Okonkwo" },
+        { "reaction": "\ud83d\ude02", "actor": "Priya Nair" }
+      ]
+    },
+    {
+      "sender_name": "Sam Okonkwo",
+      "timestamp_ms": 1756937200000,
+      "content": "group trip energy",
+      "share": {
+        "link": "https://www.instagram.com/reel/Ucarkaraoke9/",
+        "share_text": "Five people, one chorus, zero shame.",
+        "original_content_owner": "backseatradio"
+      },
+      "reactions": [
+        { "reaction": "\u2764", "actor": "Maya Chen" },
+        { "reaction": "\u2764", "actor": "Priya Nair" },
+        { "reaction": "\u2764", "actor": "Chris Adler" },
+        { "reaction": "\ud83d\udd25", "actor": "Jordan Hale" }
+      ]
+    }
+  ]
+}

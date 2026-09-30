@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Group tape — Instagram chat awards</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,640&family=IBM+Plex+Mono:wght@400;500&family=Outfit:wght@380;500;580&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/board.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <div class="mark">
+        <small>Group tape</small>
+        <strong>Awards from the chat, not the algorithm.</strong>
+      </div>
+      <button type="button" class="ghost hidden" id="reset">Load a different export</button>
+    </header>
+
+    <section id="gate" class="drop">
+      <p class="kicker">Local only · nothing is uploaded</p>
+      <h1>Who actually runs the group chat.</h1>
+      <p class="lede">Drop Instagram’s official message export and we’ll hand out the plaques: universally liked videos, the most popular send, and whoever keeps collecting hearts from everyone else.</p>
+      <div class="actions">
+        <label class="file-btn">
+          Choose export
+          <input id="file" type="file" accept=".json,.zip,application/json,application/zip" multiple>
+        </label>
+        <button type="button" class="primary" id="sample">Play the sample chat</button>
+      </div>
+      <div class="steps">
+        <ol>
+          <li><span>01</span><div>On your phone: Settings → Accounts Center → Your information and permissions → Export your information.</div></li>
+          <li><span>02</span><div>Format JSON or HTML. Include Messages. Request the download.</div></li>
+          <li><span>03</span><div>Drop the zip here. JSON or HTML both work. Hearts on a reel count; your own heart on your own send does not.</div></li>
+        </ol>
+        <p class="note"><strong>Stay in the group.</strong> Instagram only includes messages your account can still see. If a chat is end-to-end encrypted, this export will not contain it — use a normal group thread. Files never leave this browser tab.</p>
+      </div>
+      <p id="error" class="error" hidden></p>
+    </section>
+
+    <main id="board" class="hidden" aria-live="polite"></main>
+  </div>
+
+  <div id="drawer-root"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
